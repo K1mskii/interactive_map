@@ -1,2 +1,2 @@
 # interactive_map
-https://inkscape.org/ru/
+Бесплатный графический редактор Inkscape: https://inkscape.org/ru/
